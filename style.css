@@ -1,0 +1,84 @@
+a:hover
+{
+  color: #63c6ae;
+}
+.background-image
+{
+    background-image: url(img/01.jpg);
+    width:100%;
+    background-size: cover;
+}
+.background-image1
+{
+    background-image: url(img/02.jpg);
+    width:100%;
+    background-size: cover;
+}
+.cutting
+{
+    width:350px;
+    height:60px;
+    background-color: #63c6ae;
+    color:white;
+    margin-top:20%;
+}
+.gutful
+{
+    width:330px;
+    height:40px;
+    background-color:black;
+    color:white;
+    margin-top:25%;
+    text-align: center;
+   
+}
+.gutful h5{
+    font-size: 15px;
+    
+}
+.but button{
+    color:white;
+    background-color:#3a484a;
+    height:35px;
+    border: 1px solid white;
+    margin-bottom:150px;
+}
+.person-image img{
+ position:absolute;
+ top:130px;
+ 
+}
+.card:hover{
+    border:2px solid #63c6ae;
+    color:#63c6ae;
+}
+.lorem h3{
+    font-size: 20px;
+    color: rgb(68, 64, 64);
+}
+.lorem p{
+    font-size: 18px;
+    color: rgb(68, 64, 64);
+}
+.but1 button{
+    background-color: #63c6ae;
+    color:white;
+    width:120px;
+    height:40px;
+}
+.but2 button{
+    background-color:black;
+    color:white;
+    width:120px;
+    height:40px;
+}
+.gallery h3{
+    color:white;
+    margin-left:10%;
+}
+.carosel-text h5,.carosel-text{
+    color:white;
+}
+
+
+
